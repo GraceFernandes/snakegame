@@ -28,7 +28,9 @@ body{
     height: 100%;
     background: #212837 ;
     display: grid;
-    grid-template: repeat(30, 1fr) / repeat(30, 1fr);
+    grid-template: repeat(30, 1fr) / repeat(30, 1fr); 
+    row-gap: 1px;
+    column-gap: 1px;
     
 }
 
